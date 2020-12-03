@@ -1,0 +1,36 @@
+body {
+  background-color: #333333;
+  margin: 0;
+  padding: 0;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.button {
+  background-color: #dd5252;
+  border: 0px;
+  border-radius: 10px;
+
+  width: 20%;
+  height: 60px;
+
+  margin: 20px;
+  text-align: center;
+}
+
+.divzola {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.img {
+  border-radius: 40px;
+  display:inline-block;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: row;
+}
