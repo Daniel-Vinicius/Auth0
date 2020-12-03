@@ -1,7 +1,7 @@
 # Auth0
 
 <p  id="sobre">
-🔐 Um Projeto que faz login e inscrição usando o Auth0
+🔐 Um Projeto que faz login, inscrição, envio de emails, e login com redes sociais usando o Auth0.
 
 ![](https://img.shields.io/badge/license-MIT-green) ![](https://img.shields.io/badge/languege-Portuguese-yellow) [![GitHub Repo stars](https://img.shields.io/github/stars/Daniel-Vinicius/Auth0?style=social)](https://github.com/Daniel-Vinicius/Auth0/stargazers)
 
