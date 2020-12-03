@@ -27,7 +27,7 @@ Projeto finalizado ✔
 
 </h4>
 
-<iframe  width="560"  height="315"  src="https://www.youtube.com/embed/AJwheTPxFxI"  frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen></iframe>
+<a href='https://www.youtube.com/embed/AJwheTPxFxI'><h4>Vídeo do Projeto</h6></a>
 
 <!-- Altere os Pré-requisitos -->
 
@@ -36,9 +36,7 @@ Projeto finalizado ✔
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 
 [Git](https://git-scm.com/),
-
 [Node.js](https://nodejs.org/pt-br/) e
-
 [Auth0](https://auth0.com/)
 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
